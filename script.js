@@ -11,3 +11,6 @@ array.pop();
 array.pop();
 array.pop();
 console.log(array);
+
+var myString = ("welcome to the chaos")
+console.log(myString.length())
