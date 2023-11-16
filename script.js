@@ -5,3 +5,5 @@ console.log(array[4])
 for (let i = 0; i < array.length; i++){
     console.log(array[i]);
 }
+array.push(5, 42, 33, 17, 0);
+console.log(array)
